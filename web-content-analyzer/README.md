@@ -14,7 +14,7 @@ This tool allows users to fetch, analyze, and compare web content using Ollama m
 
 1. Clone the repository:
    ```
-   git clone https://github.com/XCodeIsGoldX/web-content-analyzer.git
+   git clone https://github.com/XCodeIsGoldX/ollamaland.git
    cd web-content-analyzer
    ```
 
