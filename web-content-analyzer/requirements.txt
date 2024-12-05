@@ -1,5 +1,5 @@
-ollama==0.1.27
-requests==2.31.0
-beautifulsoup4==4.12.3
-python-dotenv==1.0.1
-tqdm==4.66.2
+ollama
+requests
+beautifulsoup4
+python-dotenv
+tqdm
